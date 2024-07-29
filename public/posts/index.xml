@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; for.wlb.biz All rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 15:06:19 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 15:58:11 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Make Your MacBook Greet You When You Open It</title>
       <link>http://localhost:1313/posts/how-to-make-your-macbook-greet-you-when-you-open-it/</link>
       <pubDate>Mon, 29 Jul 2024 15:06:19 +0800</pubDate>
       <guid>http://localhost:1313/posts/how-to-make-your-macbook-greet-you-when-you-open-it/</guid>
-      <description>How to Make Your MacBook Greet You When You Open It If you want your MacBook to audibly greet you whenever you flip it open, you&amp;rsquo;re in luck! With a few simple steps, you can set up a personalized welcome message that will make your startup experience more enjoyable. This guide will walk you through the process of using Automator and the built-in text-to-speech features on your Mac. Let’s get started!</description>
+      <description>If you want your MacBook to audibly greet you whenever you flip it open, you&amp;rsquo;re in luck! With a few simple steps, you can set up a personalized welcome message that will make your startup experience more enjoyable. This guide will walk you through the process of using Automator and the built-in text-to-speech features on your Mac. Let’s get started!&#xA;Step 1: Open Automator Launch Automator: You can find Automator by searching for it in Spotlight (press Command + Space and type &amp;ldquo;Automator&amp;rdquo;).</description>
     </item>
   </channel>
 </rss>
