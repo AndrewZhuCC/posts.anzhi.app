@@ -36,16 +36,6 @@ enableRobotsTXT = true
   logo = "/path/to/logo"
   favicon = "/path/to/favicon"
 
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = 3
-
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
   threshold = 80
@@ -59,13 +49,6 @@ enableRobotsTXT = true
   [[related.indices]]
   name = "keywords"
   weight = 150
-  [[related.indices]]
-  name  = "author"
-  toLower = true
-  weight = 30
-  [[related.indices]]
-  name  = "tags"
-  weight = 100
   [[related.indices]]
   name  = "date"
   weight = 10
